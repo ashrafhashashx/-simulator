@@ -1,7 +1,7 @@
 from enum import Enum
 
 
-class Type(Enum):
+class Tribe(Enum):
     nothing = 0
     beast = 1
     demon = 2
